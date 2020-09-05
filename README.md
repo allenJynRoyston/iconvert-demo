@@ -6,6 +6,7 @@
 - [Vuex 3.x](https://github.com/vuejs/vuex)
 - [Axios](https://github.com/axios/axios)
 - [Jest](https://jestjs.io/)
+- [Parcel](https://parceljs.org/)
 - ES6/7 support (via Babel) 
 
 ## Install instructions:
